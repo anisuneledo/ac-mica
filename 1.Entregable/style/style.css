@@ -1,0 +1,26 @@
+body{
+background:whitesmoke;
+}
+#imagen_visual{
+    border-radius: 50%;
+    width: 200px;
+    height:200px;
+    border: 5px solid #bc8f8f;
+    padding:5px;
+    margin:5px;
+}
+.breed-container{
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+    margin: auto;
+}
+
+.breeds{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.titles{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
